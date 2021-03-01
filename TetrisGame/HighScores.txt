@@ -1,0 +1,10 @@
+anjan	200
+aagaman	200
+anjan	100
+test2	100
+test3	100
+Andrew	100
+Kylia	100
+bottle	100
+test1	0
+pen	0
